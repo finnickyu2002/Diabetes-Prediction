@@ -8,7 +8,7 @@ This repository currently includes two end-to-end pipelines:
 
 Both workflows are designed to be practical, reproducible, and easy to extend.
 
-## Why This Project Looks Serious
+## Highlights of the project
 
 - Clean, script-based training pipelines (no notebook lock-in)
 - Robust preprocessing for real-world clinical tables (missing values, scaling, categorical handling)
